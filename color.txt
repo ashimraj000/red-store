@@ -1,0 +1,1 @@
+background: radial-gradient(rgb(226, 236, 225),#6ecf50);
